@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+    <head>
+        <meta charset="UTF-8">
+        <title> Videos y Audios</title>
+        <link rel="stylesheet" href="song.css">
+        
+    </head>
+    <body>
+        <header>
+            <h1>VIDEOS Y AUDIOS</h1>
+            <h1> Practica 2 para la materia de Tecnologia Web</h1>
+        </header>
+        <section class="videos">
+        <h2>Feel so close - Calvin Harris</h2>
+        <video src="video1.mp4" controls></video>
+        <h2>Hurt - Johnny Cash</h2>
+        <video src="video2.mp4" controls></video>
+        <h2>Save your tears - The Weekend</h2>
+        <video src="video3.mp4" controls></video>
+        </section>
+        <section class="audios">
+            <h2>Avengers Assemble</h2>
+            <audio src="avengers.mp3" controls></audio>
+            <h2>Loki Ending theme</h2>
+            <audio src="loki.mp3" controls></audio>
+            <h2>The Night King - Game of thrones</h2>
+            <audio src="got.mp3" controls></audio>
+        </section>
+    </body>
+</html>
